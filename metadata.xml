@@ -1,0 +1,7 @@
+<metadata>
+	<name>OwnCloud</name>
+	<shortname>owncloud</shortname>
+	<className>OwnCloudUploader</className>
+	<icon>icon.png</icon>
+	<version>1.0.0</version>
+</metadata>
