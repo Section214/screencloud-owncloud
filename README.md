@@ -1,8 +1,8 @@
-= OwnCloud
+# OwnCloud
 
 An OwnCloud service plugin for ScreenCloud
 
-== Installation
+## Installation
 
 * Go to `Preferences` -> `Online Services` -> `More services`
 * Select `Install from URL` and enter the following address:
